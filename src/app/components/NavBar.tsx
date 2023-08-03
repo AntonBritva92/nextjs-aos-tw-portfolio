@@ -8,7 +8,7 @@ const NavBar = () => {
 
         <ul className="gap-10 lg:gap-16 hidden md:flex">
           <li className="menuLink">Home</li>
-          
+
           <li className="menuLink">Projects</li>
           <li className="menuLink">Skills</li>
           <li className="menuLink">Testimonials</li>
@@ -21,4 +21,4 @@ const NavBar = () => {
   );
 };
 
-export defau
+export { NavBar };
